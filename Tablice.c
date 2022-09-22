@@ -4,7 +4,7 @@
 
 //Program wypisuje NR kolejnych liczb w odwrotnej kolejności
 
-int main_test()
+int main()
 {
     int a[NR];
     int i;
